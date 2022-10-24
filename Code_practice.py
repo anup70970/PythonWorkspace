@@ -1,4 +1,4 @@
-
+from pprint import pprint
 # import time
 # from time import sleep
 # age,name = 30,'anup'
@@ -54,20 +54,33 @@
 # except Exception as e:
 #     print(e.with_traceback)
 
+# myInt = 1435435
+
+# num = 12 if myInt==10 else 13
+
+# print(num)
 
 
+# for i in range(1,5):
+#         print(i)
 
+# msg2 = 'global variable'
 
+# def func1():
+        
+#         msg2 = 'local variable'
+#         print(msg2)
+# func1()
+# print(msg2)
 
+# import random as ran
+# from random import randrange,randbytes
+# print(randbytes(200))
 
+import prime as p
+ans = p.checkIfprime(11)
 
-
-
-
-
-
-
-
+print(ans)
 
 
 
