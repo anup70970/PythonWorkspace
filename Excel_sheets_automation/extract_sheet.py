@@ -7,3 +7,7 @@ print(read_data)
 with open('data.txt','w') as op:
     op.write(str(read_data))
     op.close()
+
+
+# f = open('data.txt','r')
+# print(f.read())
