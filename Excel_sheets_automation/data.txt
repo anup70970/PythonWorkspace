@@ -1,0 +1,27 @@
+[                                Holiday  ... Remarks
+0                          Republic Day  ...     NaN
+1   Chhatrapati Shivaji Maharaj Jayanti  ...     NaN
+2                         Mahashivratri  ...     NaN
+3                     Holi (Second Day)  ...     NaN
+4                           Gudhi Padwa  ...     NaN
+5                             Ram Navmi  ...     NaN
+6         Dr.Babasaheb Ambedkar Jayanti  ...     NaN
+7                       Mahavir Jayanti  ...     NaN
+8                           Good Friday  ...     NaN
+9                       Maharashtra Din  ...     NaN
+10    Ramzan-Id (Id-UL-Fitr) (Shawal-1)  ...     NaN
+11                      Buddha Pournima  ...     NaN
+12                Bakri Id (Id-Uz-Zuha)  ...     NaN
+13                              Moharum  ...     NaN
+14                     Independence Day  ...     NaN
+15         Parsi New Year (Shahenshahi)  ...     NaN
+16                     Ganesh Chaturthi  ...     NaN
+17               Mahatma Gandhi Jayanti  ...     NaN
+18                               Dasara  ...     NaN
+19                           Id-E-Milad  ...     NaN
+20       Diwali Amavasaya (Laxmi Pujan)  ...     NaN
+21              Diwali (Bali Pratipada)  ...     NaN
+22                   Guru Nanak Jayanti  ...     NaN
+23                            Christmas  ...     NaN
+
+[24 rows x 5 columns]]
